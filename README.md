@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Mustaqeem 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer+%40+AirAsia;Cloud+Architect+%26+GCP+ACE;AI-Driven+SDLC+Pioneer" alt="typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer+%40+AirAsia;" alt="typing SVG" />
 </p>
 
 <p align="center">
