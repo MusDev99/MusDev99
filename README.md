@@ -60,12 +60,3 @@ I'm a results-driven **Software Engineer based in Sepang, Malaysia**, currently 
 - ⚙️ **ITIL® 4 Foundation in IT Service Management** — *PeopleCert*
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhd-mustaqeem&show_icons=true&theme=radical&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhd-mustaqeem&layout=compact&theme=radical&hide_border=true&bg_color=161b22" alt="Top Languages" />
-</p>
